@@ -1,0 +1,6 @@
+# すべて対象
+*
+# ホワイトリスト
+!arc.py
+!README.md
+!.gitignore
